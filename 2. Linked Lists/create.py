@@ -28,7 +28,6 @@ node3 = Node(3)
 
 head.nextNode = node2
 node2.nextNode = node3
-
 # traverse(head)
 # head = insertAtHead(head, 10)
 # traverse(head)
